@@ -8,3 +8,4 @@ mkdir opencv
 cd  opencv
 mkdir dlib
 cd dlib
+git fetch ../../myrepositorylibs/dlib.git
