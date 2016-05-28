@@ -1,0 +1,10 @@
+git init
+git init
+git clone ../dlib.git
+git clone --mirror https://github.com/Itseez/opencv.git
+git clone ../opencv.git
+git clone --mirror https://github.com/davisking/dlib.git
+mkdir opencv
+cd  opencv
+mkdir dlib
+cd dlib
